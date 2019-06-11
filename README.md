@@ -1,1 +1,1 @@
-# friend-finder
+![Project Image](./screenshot.png?raw=true)
