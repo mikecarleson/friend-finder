@@ -2,20 +2,20 @@
   background: url("https://enzian.org/wp-content/uploads/2018/07/Yellow-Submarine-Hero.jpg");
   background-size: cover;
   background-position: center;
- 
-}
-
-body {
-  background: url("https://cdn.shopify.com/s/files/1/1930/9599/products/MJ00021-E.jpg?v=1495870229");
-  background-size: cover;
-  background-position: center;
-  color: black;
   -webkit-text-fill-color: white; 
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
   font-size: 6rem;
+
 }
 
-.chosen-select {
-    font-size: 16px;
+body {
+  background: #fdca0d;
+  color: black;
+}
+
+h3 {
+  -webkit-text-fill-color: white; 
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
